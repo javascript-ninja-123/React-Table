@@ -1,0 +1,15 @@
+.TH{
+  width:70%;
+  margin:10px auto;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  background:grey;
+  padding:0 2rem;
+  color:white;
+  font-size:1rem;
+}
+.TH > div {
+  min-width:100px;
+}
